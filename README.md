@@ -61,32 +61,6 @@ Sempre em busca de novos desafios e aprendizados!
 
 ---
 
-## 💼 Experiência Profissional
-
-| Cargo | Empresa | Período | Descrição |
-|:-----|:--------|:--------|:----------|
-| Estagiária Web | Tactic Marketing | Out/2024 - Nov/2024 | Desenvolvimento e manutenção de sites, operação WordPress, suporte a clientes. |
-| Estagiária Desktop | Cuca Fresca Sistemas | Dez/2023 - Set/2024 | Manutenção e implementação em sistemas Clarion/PostgreSQL. |
-| Gerente | Empório Vidal de Marília | Nov/2024 - Atual | Gestão de equipe, operação de loja, controle de estoque, atendimento. |
-
----
-
-## 📚 Projetos
-
-- **Learning English With Adventures**  
-  Desenvolvimento de um jogo educativo em Python para ensino de inglês, focado em acessibilidade para alunos da APAE.
-
----
-
-## 📈 Estatísticas GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IsabelaCorredato&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsabelaCorredato&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
 </p>
